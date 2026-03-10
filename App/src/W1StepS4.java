@@ -12,7 +12,6 @@ public class W1StepS4 {
         HashMap<String, Integer> attemptFrequency = new HashMap<>();
         Scanner sc = new Scanner(System.in);
 
-        // Pre-populating with some existing data (Simulating 10M users)
         userRegistry.put("john_doe", 1001);
         userRegistry.put("admin", 1002);
 
